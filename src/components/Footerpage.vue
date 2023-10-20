@@ -21,3 +21,9 @@
         </a>
     </div>
 </template>
+
+<style scoped>
+    img {
+    height: 20px;
+  }
+</style>

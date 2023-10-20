@@ -1,7 +1,8 @@
 <script setup>
-  import MainCard from './components/MainCard.vue';
-  import FooterCard from './components/FooterCard.vue';
+  import ContenuVue from './components/Contenu.vue';
+  import Footerpage from './components/Footerpage.vue';
   import HeaderCard from './components/HeaderCard.vue';
+  import Modale from './components/Modale.vue';
 </script>
 
 <template>
@@ -11,16 +12,16 @@
     </header>
 
     <main>
-      <MainCard></MainCard>
+      <ContenuVue/>
     </main>
 
     <footer>
-      <FooterCard/>
+      <Footerpage/>
     </footer>
   </body>
   
 </template>
 
 <style scoped>
-
+  
 </style>
