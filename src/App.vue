@@ -13,6 +13,7 @@
 
     <main>
       <ContenuVue/>
+      <router-view></router-view>
     </main>
 
     <footer>
