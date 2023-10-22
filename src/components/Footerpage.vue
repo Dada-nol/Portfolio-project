@@ -1,29 +1,36 @@
 <template>
     <div class="social-links">
-        <a href="">
-            <div class="link">
-                <img src="../assets/github.png" alt="">
-                <h3>Github</h3>
-            </div>
-            <div class="link">
-                <img src="../assets/linkedin.png" alt="">
-                <h3>LinkedIn</h3>
-            </div>
-            <div class="link">
-                <img src="../assets/facebook(1).png" alt="">
-                <h3>Facebook</h3>
-            </div>
-            <div class="link">
-                <img src="../assets/instagram.png" alt="">
-                <h3>Instagram</h3>
-            </div>
-    
-        </a>
+
+        <div>
+            <a target= "blank" href="https://www.instagram.com/dada_nol/"><img src="../assets/instagram.png" alt=""></a>
+        </div>
+
+        <div>
+            <a target= "blank" href="https://www.facebook.com/darren.nardol.7"><img src="../assets/facebook(1).png" alt=""></a>
+        </div>
+
+            
+        <div>
+            <a target= "blank" href="https://github.com/Dada-nol"><img src="../assets/github.png" alt=""></a>
+        </div>
+
     </div>
+
+    <div class="date"></div>
 </template>
 
 <style scoped>
     img {
-    height: 20px;
+    height: 50px;
   }
+
+    div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    background-color: #626270;
+  }
+
 </style>

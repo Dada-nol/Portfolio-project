@@ -6,20 +6,20 @@
 </script>
 
 <template>
-  <body>
-    <header>
+  
+    
       <HeaderCard/>
-    </header>
+    
 
-    <main>
+    
       <ContenuVue/>
       <router-view></router-view>
-    </main>
+    
 
-    <footer>
+    
       <Footerpage/>
-    </footer>
-  </body>
+    
+  
   
 </template>
 

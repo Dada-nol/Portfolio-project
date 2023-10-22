@@ -24,7 +24,7 @@
 
 <template>
 
-    <div class="main-container">
+    <div id="main-container">
         <div class="profile">
             <h2>Nardol Darren</h2>
             <p>Développeur web et web mobile</p>
