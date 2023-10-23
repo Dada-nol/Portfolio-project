@@ -17,11 +17,14 @@
     </div>
 
     <div class="date"></div>
+
 </template>
 
 <style scoped>
+
     img {
     height: 50px;
+    margin: 10px;
   }
 
     div {
@@ -34,3 +37,4 @@
   }
 
 </style>
+
