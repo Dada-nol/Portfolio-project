@@ -1,14 +1,25 @@
 <script setup>
-  import ContenuVue from './components/Contenu.vue';
+  import Bodypage from './components/Bodypage.vue';
   import Footerpage from './components/Footerpage.vue';
-  import HeaderCard from './components/HeaderCard.vue';
+  import Headerpage from './components/Headerpage.vue';
 </script>
 
 <template>
+
   <router-view></router-view>
-  <HeaderCard/>
-  <ContenuVue/>
-  <Footerpage/>
+  
+  <section>
+  <Headerpage/>
+  </section>
+
+  <section>
+    <Bodypage/>
+  </section>
+
+  <section>
+    <Footerpage/>
+  </section>
+
 </template>
 
 <style scoped>

@@ -6,16 +6,12 @@
                 <p>Ramen Master</p>
                 <p>Site créée le 23 octobre 2023</p>
                 <p>Technologies utilisées : HTML, CSS, JavaScript</p>
-                <img src="../assets/ramen.jpeg" alt="">
+                <img src="../assets/Img/ramen.jpeg" alt="image d'un projet où j'ai dû réaliser un site pour un restaurant japonais fictif.">
                 <a target="blank" href="https://github.com/Dada-nol/Ramen-master.git">Repository Github de ce projet.</a>
-                <br/>
-                <img src="../assets/Exercice htmlcss.png" alt="image d'un curriculum vitae">
-                <a target="blank" href="https://github.com/Dada-nol/CV-Darren.git">Repository Github de ce projet.</a>
-                <img src="../assets/Exercice javascript.png" alt="image d'un espace commentaire">
-                <a href="https://github.com/Dada-nol/Dynamiser-un-espace-commentaire.git">Repository Github de ce projet.</a>
             </div>
         </div>
     </div>
+    
 </template>
 
 
