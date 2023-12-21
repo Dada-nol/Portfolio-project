@@ -1,0 +1,20 @@
+@import './base.css';
+
+#app {
+  background-color: #f0f0f0;
+  font-weight: normal;
+}
+
+section {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+/* #app {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0 2rem;
+} */
+

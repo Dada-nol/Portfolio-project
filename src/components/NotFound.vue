@@ -10,6 +10,7 @@ export default {
 
 <style scoped>
     h2{
-        color: red
+        color: red;
+        margin-bottom: 100px              
     }
 </style>

@@ -1,3 +1,9 @@
-<template>
-    <h2>MyComponent</h2>
-</template>
+<template></template>
+
+<style scoped>
+
+</style>
+
+<script>
+
+</script>
